@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/29 11:15:02.000.847,=D:\Delphi\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/29 11:17:12.000.007,=D:\Delphi\Projects\IngaCode.pas</Transaction>
+    <Transaction>2025/01/29 11:18:00.000.463,D:\Delphi\Projects\Project1.dproj=D:\Delphi\Projects\ProjetoIngaCode.dproj</Transaction>
+    <Transaction>2025/01/29 11:18:11.000.025,D:\Delphi\Projects\ProjetoIngaCode.dproj=D:\Delphi\Projects\ProjetoIngaCode.dproj</Transaction>
+    <Transaction>2025/01/29 11:24:15.000.272,=D:\Delphi\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/29 11:27:04.000.497,D:\Delphi\Projects\Unit1.dfm=D:\Delphi\Projects\Atv1.dfm</Transaction>
+    <Transaction>2025/01/29 11:27:04.000.497,D:\Delphi\Projects\Unit1.pas=D:\Delphi\Projects\Atv1.pas</Transaction>
+    <Transaction>2025/01/30 20:38:20.000.428,=D:\Delphi\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 20:39:36.000.324,D:\Delphi\Projects\Atv2.dfm=D:\Delphi\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/01/30 20:39:36.000.324,D:\Delphi\Projects\Atv2.pas=D:\Delphi\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 21:42:49.000.654,=D:\Delphi\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 21:42:58.000.429,D:\Delphi\Projects\Atv3.pas=D:\Delphi\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 21:42:58.000.429,D:\Delphi\Projects\Atv3.dfm=D:\Delphi\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/02/01 12:22:31.000.562,=D:\Delphi\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/03 14:08:20.000.058,=D:\Delphi\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Atv1.pas"/>
+    <File Path="Atv1.dfm"/>
+    <File Path="IngaCode.pas"/>
+    <File Path="IngaCode.dfm"/>
+    <File Path="Atv2.pas"/>
+    <File Path="Atv2.dfm"/>
+    <File Path="Atv3.pas"/>
+    <File Path="Atv3.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
